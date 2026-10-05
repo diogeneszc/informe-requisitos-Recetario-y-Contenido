@@ -56,11 +56,11 @@
 
 * \[ \] **Referencias:** Listado bibliográfico estructurado bajo la norma requerida (APA/IEEE/otra).
 
-* \[ \] **Formato y Redacción:**
+* \[x \] **Formato y Redacción:**
 
-  * \[ \] *Tipografía:* Aplicación coherente de tipos de fuente, tamaños y jerarquías (títulos/cuerpo).
+  * \[ x\] *Tipografía:* Aplicación coherente de tipos de fuente, tamaños y jerarquías (títulos/cuerpo).
 
-  * \[ \] *Párrafo:* Normalización de interlineado, alineación, sangrías y espaciado entre párrafos.
+  * \[ x\] *Párrafo:* Normalización de interlineado, alineación, sangrías y espaciado entre párrafos.
 
 ## 📅 Cronograma de Entregas
 
